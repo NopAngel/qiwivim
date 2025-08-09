@@ -1,4 +1,4 @@
--- Define la tecla líder
+
 vim.g.mapleader = " "
 
 -- Telescope
