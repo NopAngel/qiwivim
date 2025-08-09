@@ -1,0 +1,10 @@
+-- ~/.config/nvim/init.lua
+require("qiwy.options")
+require("qiwy.keymaps")
+require("qiwy.plugins")
+require("qiwy.telescope")
+require("qiwy.plugins")
+require("qiwy.theme")
+require("qiwy.ui")
+require("qiwy.cmp")
+require("qiwy.tree")
