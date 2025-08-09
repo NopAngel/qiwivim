@@ -4,4 +4,9 @@
 # packer_compiled :)
 plugin/packer_compiled.lua
 
+# test folder
+./test
+
+.editorconfig
+
 
