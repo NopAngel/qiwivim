@@ -20,7 +20,7 @@ Qiwy is a blazing-fast, minimal yet powerful Neovim configuration designed to fe
 Clone this repo into your Neovim config directory:
 
 ```bash
-git clone https://github.com/yourusername/qiwy.nvim ~/.config/nvim
+git clone https://github.com/NopAngel/qiwivim ~/.config/nvim
 ```
 
 Then open Neovim and run:
